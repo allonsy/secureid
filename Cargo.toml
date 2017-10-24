@@ -1,0 +1,9 @@
+[package]
+name = "secureid"
+version = "0.1.0"
+authors = ["Alec Snyder <linuxbash8@gmail.com>"]
+
+[dependencies]
+url = "1.5.1"
+rust-crypto = "^0.2"
+base64 = "0.7.0"
